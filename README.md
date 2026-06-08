@@ -1,2 +1,2 @@
 # disha-first
-This is my first repository.
+This is my Git first repository.
